@@ -9,7 +9,7 @@
 spider_settings:
   enable: true
   json_url: "https://blog.naokuo.top/friend.json"
-  article_count: 5
+  article_count: 15
   merge_result:
     enable: true
     merge_json_url: "https://blog.naokuo.top"
